@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Sinysell](https://sinysell.com)
 
-- 👯 I’m looking to collaborate on [Oreocheats.com](https://oreocheats.com)
+- 👯 I’m collaborate with [Oreocheats.com](https://oreocheats.com)
 
 - 📫 How to reach me **Estemaz#4783**
 
