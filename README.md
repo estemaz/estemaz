@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=estemaz" alt="estemaz" /></a> </p>
 
-- 🔭 I’m currently working on [Sinysell](https://sinysell.com)
+- 🔭 I’m currently working on [Sinysell](https://github.com/Sinysell)
 
 - 👯 I’m collaborate with [Oreocheats.com](https://oreocheats.com)
 
